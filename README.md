@@ -21,3 +21,6 @@ Projeto: https://github.com/ArthurAlvDev/formacao-blockchain-dio/blob/main/ARTTo
 
 ![Codigo](https://github.com/user-attachments/assets/c7cc95f7-db7c-4c24-8992-be1f021598d2)
 
+04 - Criando um NFT na Prática
+
+Mudaram o metodo e agora é cobrado para criar: ![ERROR](https://github.com/user-attachments/assets/db462fe1-9a94-4c17-ba63-d565c2c1f463)
