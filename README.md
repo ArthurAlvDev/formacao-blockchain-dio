@@ -24,3 +24,7 @@ Projeto: https://github.com/ArthurAlvDev/formacao-blockchain-dio/blob/main/ARTTo
 04 - Criando um NFT na Prática
 
 Mudaram o metodo e agora é cobrado para criar: ![ERROR](https://github.com/user-attachments/assets/db462fe1-9a94-4c17-ba63-d565c2c1f463)
+
+05 - Criando uma DAO
+
+Projeto: https://github.com/ArthurAlvDev/formacao-blockchain-dio/blob/main/Projeto%20de%20DAO%3A%20ARToken
