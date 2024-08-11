@@ -28,3 +28,10 @@ Mudaram o metodo e agora é cobrado para criar: ![ERROR](https://github.com/user
 05 - Criando uma DAO
 
 Projeto: https://github.com/ArthurAlvDev/formacao-blockchain-dio/blob/main/Projeto%20de%20DAO%3A%20ARToken
+
+NFT de Pokémon com Blockchain
+
+Projeto: https://github.com/ArthurAlvDev/formacao-blockchain-dio/blob/main/PokeNFT
+
+![Codigo](https://github.com/user-attachments/assets/c01ad110-4dc9-4d0e-a003-26fc785fea55)
+![Wallet](https://github.com/user-attachments/assets/76152004-7403-42ec-8a39-d5fc3fddda07)
