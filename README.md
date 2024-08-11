@@ -13,7 +13,7 @@ Endereço real para quem quiser testar: 1GMiqxQyAeui4T9rTHWHwquT5ZmUifdVZo
 Projeto: https://github.com/ArthurAlvDev/formacao-blockchain-dio/blob/main/ARTToken.sol
 
 ![MetaMask](https://github.com/user-attachments/assets/2ad6be78-db8a-476c-9100-030b771d2d3c)
-![Codigo](https://github.com/user-attachments/assets/aec04f87-3662-4f84-a71b-e4740389518d)
+![Codigo](https://github.com/user-attachments/assets/cbbd33e4-dc02-4b86-8a2e-305758b0cae6)
 
 03 - Criando Token do Zero nos Padrões Web3
 
